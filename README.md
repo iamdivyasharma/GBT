@@ -1,1 +1,1 @@
-# GBT
+# Travel_insights_Gpt_recommendations
